@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=12,20,30&height=150&section=header&text=brzzl&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=30&duration=4000&pause=2000&color=E40BC5&center=true&random=true&width=446&height=60&lines=brzzl;%24+ZenX+Corp" width="100%">
 </p>
 
 ### brzzl $ ZenX Founder
