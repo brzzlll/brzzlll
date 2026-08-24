@@ -1,6 +1,4 @@
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=2000&color=E40BC5&random=true&width=446&height=60&lines=brzzl;%24+ZenX+Corp" alt="Typing SVG" /></a>
-</p>
 
 ### brzzl $ ZenX Founder
 💻 **Creador del mundo bot raid de todo Discord.**
