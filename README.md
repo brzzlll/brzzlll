@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=2000&color=E40BC5&width=500&height=70&lines=brzzl;%24+ZenX+Corp" alt="Typing SVG" /></a>
-
 ### brzzl $ ZenX Founder
 💻 **Creador del mundo bot raid de todo Discord.**
 💀 **Z**en**X** **C**o**r**p **+1.5k**
@@ -7,10 +6,9 @@
 **>>** Bot R4id, Discord Tools **&** more:
 **https://discord.gg/zCQ8jQ2GBf** ( **Free** )
 
-
 ---
 
-### 📺 YouTube
+### 📺 YouTube - brzzl
 <p align="left">
   <a href="https://www.youtube.com/@brzzlll" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
